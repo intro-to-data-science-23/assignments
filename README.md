@@ -7,16 +7,16 @@ In this repository you'll find materials for the weekly assignments (just for th
 | Session | Topic | Assignment | Submission deadline |
 |---------|-------|-----------|-----------|
 | 01 | What is data science? | -- | --  | 
-| 02 | Version control and project management | 1 (not graded) | --  | 
-| 03 | R and the tidyverse | 2 | Oct 6  | 
-| 04 | Relational databases and SQL | -- | --  | 
-| 05 | Web data and technologies | 3 | Oct 20  | 
-| 06 | Model fitting and simulation | 4 | Nov 17 (new)  | 
-| 07 | Visualization | 5 | Nov 24 (new)  | 
-| 08 | Workshop: Tools for Data Science | -- | --  | 
-| 09 | Working at the command line | -- | --  | 
-| 10 | Debugging, automation, packaging | 6 | cancelled  | 
-| 11 | Monitoring and communication | -- | --  | 
+| 02 | Version control and project management | -- | --  | 
+| 03 | R and the tidyverse | 1 | Sep 26  | 
+| 04 | Debugging, automation, functions | 2 | Oct 10 | 
+| 05 | Relational databases and SQL | -- | --  | 
+| 06 | Web data and technologies | -- | --  | 
+| 07 | Web scraping and APIs | 3 | Nov 7 | 
+| 08 | Model fitting and evaluation |  |   | 
+| 09 | Visualization | 4 | Nov 21  | 
+| 10 | Workshop: Tools for Data Science | -- | --  | 
+| 11 | Monitoring and communication | 5 | Dec 5 | 
 | 12 | Data science ethics | -- | --  | 
 
 
