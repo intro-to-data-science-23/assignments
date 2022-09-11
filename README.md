@@ -13,7 +13,7 @@ In this repository you'll find materials for the weekly assignments (just for th
 | 05 | Relational databases and SQL | -- | --  | 
 | 06 | Web data and technologies | -- | --  | 
 | 07 | Web scraping and APIs | 3 | Nov 8 | 
-| 08 | Model fitting and evaluation |  |   | 
+| 08 | Model fitting and evaluation | -- | --  | 
 | 09 | Visualization | 4 | Nov 22  | 
 | 10 | Workshop: Tools for Data Science | -- | --  | 
 | 11 | Monitoring and communication | 5 | Dec 6 | 
