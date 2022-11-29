@@ -16,7 +16,7 @@ In this repository you'll find materials for the weekly assignments (just for th
 | 08 | Model fitting and evaluation | -- | --  | 
 | 09 | Visualization | 4 | Nov 29  | 
 | 10 | Workshop: Tools for Data Science | -- | --  | 
-| 11 | Monitoring and communication | 5 | Dec 6 | 
+| 11 | Monitoring and communication | 5 | Dec 7 | 
 | 12 | Data science ethics | -- | --  | 
 
 
