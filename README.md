@@ -1,6 +1,6 @@
 # Weekly assignments
 
-In this repository you'll find materials for the weekly assignments (just for the record; to work on them please use your assigned private repo via GitHub Classroom). The deadline for submission is usually Tuesdays at noon in the week after the assignments are published.
+In this repository you'll find materials for the weekly assignments (just for the record; to work on them please use your assigned private repo via GitHub Classroom). The deadline for submission is usually Tuesdays at 9:30am in the week after the assignments are published.
 
 ## Assignment timeline
 
