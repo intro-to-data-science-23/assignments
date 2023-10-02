@@ -9,7 +9,7 @@ In this repository you'll find materials for the weekly assignments (just for th
 | 01 | What is data science? | -- | --  | 
 | 02 | Version control and project management | 1 | Sep 26  | 
 | 03 | Data science ethics | -- | --  | 
-| 04 | Programming: Functions and debugging | 2 | Oct 4  | 
+| 04 | Programming: Functions and debugging | 2 | Oct 6 (new)  | 
 | 05 | Relational databases and SQL | -- | --  | 
 | 06 | Web data and technologies | -- | --  | 
 | 07 | Web scraping and APIs | 3 | Oct 31 | 
