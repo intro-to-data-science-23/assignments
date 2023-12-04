@@ -15,8 +15,8 @@ In this repository you'll find materials for the weekly assignments (just for th
 | 07 | Web scraping and APIs | 3 | Nov 3 (new) | 
 | 08 | Workshop: Tools for Data Science | -- | --  | 
 | 09 | Model fitting and evaluation | -- | --  | 
-| 10 | Visualization | 4 | Nov 21  | 
+| 10 | Visualization | 4 | Nov 24 (new)  | 
 | 11 | Automation, scheduling, and packages | -- | -- | 
-| 12 | Monitoring and communication | 5 | Dec 5 | 
+| 12 | Monitoring and communication | 5 | Dec 8 (new) | 
 
 
